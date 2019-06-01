@@ -1,9 +1,9 @@
+require_relative 'dictionary'
+
 module KatakanaConverter
   class Converter
-    def self.convert
-    end
+    def convert(word)
 
-    def convert
     end
   end
 end
