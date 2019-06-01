@@ -1,0 +1,2 @@
+module KatakanaConverter
+end
